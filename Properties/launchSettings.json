@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChatApp": {
+      "commandName": "Project",
+      "commandLineArgs": "11001"
+    }
+  }
+}

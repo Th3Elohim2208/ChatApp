@@ -1,0 +1,32 @@
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.Form1.resources
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.csproj.GenerateResource.cache
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.AssemblyInfoInputs.cache
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.AssemblyInfo.cs
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\javier\source\repos\ChatApp\bin\Debug\net8.0-windows\ChatApp.exe
+C:\Users\javier\source\repos\ChatApp\bin\Debug\net8.0-windows\ChatApp.deps.json
+C:\Users\javier\source\repos\ChatApp\bin\Debug\net8.0-windows\ChatApp.runtimeconfig.json
+C:\Users\javier\source\repos\ChatApp\bin\Debug\net8.0-windows\ChatApp.dll
+C:\Users\javier\source\repos\ChatApp\bin\Debug\net8.0-windows\ChatApp.pdb
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.dll
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\refint\ChatApp.dll
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.pdb
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ChatApp.genruntimeconfig.cache
+C:\Users\javier\source\repos\ChatApp\obj\Debug\net8.0-windows\ref\ChatApp.dll
+C:\Users\javier\Desktop\Nueva carpeta (2)\bin\Debug\net8.0-windows\ChatApp.exe
+C:\Users\javier\Desktop\Nueva carpeta (2)\bin\Debug\net8.0-windows\ChatApp.deps.json
+C:\Users\javier\Desktop\Nueva carpeta (2)\bin\Debug\net8.0-windows\ChatApp.runtimeconfig.json
+C:\Users\javier\Desktop\Nueva carpeta (2)\bin\Debug\net8.0-windows\ChatApp.dll
+C:\Users\javier\Desktop\Nueva carpeta (2)\bin\Debug\net8.0-windows\ChatApp.pdb
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.Form1.resources
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.csproj.GenerateResource.cache
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.AssemblyInfoInputs.cache
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.AssemblyInfo.cs
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.dll
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\refint\ChatApp.dll
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.pdb
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ChatApp.genruntimeconfig.cache
+C:\Users\javier\Desktop\Nueva carpeta (2)\obj\Debug\net8.0-windows\ref\ChatApp.dll
