@@ -1,17 +1,21 @@
+using System;
+using System.Windows.Forms;
+
 namespace ChatApp
 {
-    internal static class Program
+    static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
         [STAThread]
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            int port = args.Length > 0 ? int.Parse(args[0]) : 11000; // Usar puerto 11000 por defecto si no se especifica
+            int port = 11000; // Default port
+            if (args.Length > 0 && int.TryParse(args[0], out int parsedPort))
+            {
+                port = parsedPort;
+            }
 
             Application.Run(new Form1(port));
         }
