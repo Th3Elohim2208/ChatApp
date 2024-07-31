@@ -16,7 +16,7 @@ ChatApp es una aplicación de mensajería instantánea similar a WhatsApp. Cada 
 ## Requisitos
 
 - .NET 8 SDK
-- Visual Studio o Visual Studio Code
+- Visual Studio 
 
 ## Instalación
 
@@ -56,3 +56,11 @@ Repite el paso 3 tantas veces como necesites, cambiando el número de puerto cad
 
 Los mensajes recibidos se mostrarán en la lista de mensajes.
 
+
+ En caso de no poder ejecutar la aplicacion desde la terminal:
+ 1. Haz clic derecho en el nombre de tu proyecto en el Explorador de Soluciones y selecciona Propiedades.
+ 2. Haz clic en Depuración en el menú de la izquierda.
+ 3. En la sección Argumentos de línea de comandos, escribe el número del puerto que deseas usar para la primera instancia. Por ejemplo, escribe 11000.
+ 4. Con estos ajustes, inicia la aplicación haciendo clic en Depurar > Iniciar sin depuración o presionando Ctrl + F5. Esto lanzará la primera instancia con el puerto 11000.
+ 5. Vuelve a las propiedades del proyecto y cambia el número del puerto en los Argumentos de línea de comandos a 11001.
+ 6. Nuevamente, haz clic en Depurar > Iniciar sin depuración o presiona Ctrl + F5. Esto lanzará la segunda instancia con el puerto 11001.
