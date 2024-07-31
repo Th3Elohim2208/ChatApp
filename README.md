@@ -23,7 +23,7 @@ ChatApp es una aplicación de mensajería instantánea similar a WhatsApp. Cada 
 1. Clona este repositorio:
 
     ```sh
-    git clone https://github.com/tu-usuario/ChatApp.git
+    git clone https://github.com/Th3Elohim2208/ChatApp.git
     cd ChatApp
     ```
 
@@ -37,13 +37,13 @@ Para ejecutar varias instancias de la aplicación y simular diferentes clientes:
 2. Ejecuta la aplicación con un puerto específico:
 
     ```sh
-    dotnet run --project ChatApp -- 11000
+    dotnet run --nombre-del-proyecto-- 11000
     ```
 
 3. Abre otra terminal y ejecuta la aplicación con un puerto diferente:
 
     ```sh
-    dotnet run --project ChatApp -- 11001
+    dotnet run --nombre-del-proyecto -- 11001
     ```
 
 Repite el paso 3 tantas veces como necesites, cambiando el número de puerto cada vez.
@@ -56,10 +56,3 @@ Repite el paso 3 tantas veces como necesites, cambiando el número de puerto cad
 
 Los mensajes recibidos se mostrarán en la lista de mensajes.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT.
